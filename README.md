@@ -1,3 +1,4 @@
+![Master Head](https://wallpaperaccess.com/full/9226862.gif)
 <h1 align="center">Hi 👋, I'm Prithvi Badipuram</h1>
 <h4 align="center">Front-End Development</h4>
 
