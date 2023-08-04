@@ -1,6 +1,5 @@
 ![Master Head](https://wallpaperaccess.com/full/9226862.gif)
-<h1 align="center">Hi 👋, I'm Prithvi Badipuram</h1>
-<h4 align="center">Front-End Development</h4>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=B92FEE&background=FFFFFF00&center=true&vCenter=true&width=800&height=90&lines=Greetings+%2Cfellow+developers!+;I'm+Prithvi+Badipuram%F0%9F%98%8E;Front-End+Developer%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h2>
 
 🌐 As a front-end enthusiast, I enjoy crafting beautiful and intuitive user experiences with HTML, CSS, and JavaScript. I'm always on the lookout for the latest web technologies to enhance my skills.
 
