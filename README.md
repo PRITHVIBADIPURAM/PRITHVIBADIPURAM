@@ -12,7 +12,7 @@
 🚀 Some of my areas of interest include responsive design, UI/UX, and exploring modern front-end frameworks like React and Angularjs.
 
 
-🖥️ See my portfolio at [https://prithvi-porfolio.netlify.app/](https://prithvi07-porfolio.netlify.app/)
+🖥️ See my portfolio at [https://prithvi-07-portfolio.netlify.app/)
 
 💬 Feel free to inquire about WordPress or Front-end Development! I'm here to provide insights and answers on these topics.
 
